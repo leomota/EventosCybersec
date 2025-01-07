@@ -98,6 +98,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
 |----------------|---------------|-------|-------------|
 | BHack Conference | 04/12/2025 a 05/12/2025 | Belo Horizonte, MG | -           |
+| H2HC |  | São Paulo - SP | -           |
 
 ---
 
